@@ -1,6 +1,6 @@
 import product from "./Product";
-
-export default function description() {
+/* component that return the product’s description*/
+export default function Description() {
   return (
     <> <p>{product.description}</p> </>
   )

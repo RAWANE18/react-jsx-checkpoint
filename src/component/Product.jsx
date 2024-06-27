@@ -1,4 +1,4 @@
-
+/* json object of a product’s name, price, description, and a path or URL to an image */
 const product = {
     name: "Playstation 5 Standard Console",
     price: "549,00 €",

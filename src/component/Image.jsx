@@ -1,5 +1,5 @@
 import product from "./Product";
-
+/* component that return the product’s image */
 export default function Image() {
   return (
     <>
